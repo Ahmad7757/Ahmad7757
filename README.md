@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/gg-dl/AOI_d_9Zv5QrqchivE_XyU_O_bT6e4oWEimyGilbeGiyXeGFk52IBNquCgqMDQ4p_grtQDvfKoS6gETOh7T69pTAgPwJ05Rgs5nX0gCaXutV7o25LAeO9Zm-EfQHWD3193cy56PajqeZzge05F6Xr5QXY5M8SwK2o25dL19Oidc7U_DpE6p3cQ=s1024-rj" width="100%" />
+  <img src="https://gemini.google.com/share/a603bab459aa" width="100%" />
 </p>
 
 <h1 align="center">Hi, I am Ahmad 👋</h1>
