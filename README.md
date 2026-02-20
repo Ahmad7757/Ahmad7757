@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://gemini.google.com/share/a603bab459aa" width="100%" />
-</p>
 
 <h1 align="center">Hi, I am Ahmad 👋</h1>
 
