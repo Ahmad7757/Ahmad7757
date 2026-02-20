@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Saleh Jalabi
+## Hi there 👋 I'm Ahmad Dabbagh
 
 🎯 .NET Backend Developer | ASP.NET Core | SQL Server  
 🚀 Passionate about building scalable and clean backend systems
@@ -37,8 +37,8 @@
 ---
 
 ## 📫 How to Reach Me
-- GitHub: https://github.com/SalehJalabi
-- Email: mhmdmh2004@gmail.com
+- GitHub: https://github.com/Ahmad7757
+- Email: ahmadbesherdabbagh@gmail.com
 ---
 
 ⭐ Feel free to explore my repositories and follow my journey!
