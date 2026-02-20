@@ -1,4 +1,5 @@
-![Header image](https://lh3.googleusercontent.com/gg-dl/AOI_d_9Zv5QrqchivE_XyU_O_bT6e4oWEimyGilbeGiyXeGFk52IBNquCgqMDQ4p_grtQDvfKoS6gETOh7T69pTAgPwJ05Rgs5nX0gCaXutV7o25LAeO9Zm-EfQHWD3193cy56PajqeZzge05F6Xr5QXY5M8SwK2o25dL19Oidc7U_DpE6p3cQ=s1024-rj)
+![Header image](https://gemini.google.com/share/d06126798d7f)
+)
 
 🎯 .NET Backend Developer | ASP.NET Core | SQL Server  
 🚀 Passionate about building scalable and clean backend systems
