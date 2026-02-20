@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/header.png" width="100%" />
 </p>
-)
-)
 
 🎯 .NET Backend Developer | ASP.NET Core | SQL Server  
 🚀 Passionate about building scalable and clean backend systems
