@@ -1,4 +1,5 @@
-![Header image]((https://gemini.google.com/share/d06126798d7f))
+![Header image](![Uploading Gemini_Generated_Image_dra9x6dra9x6dra9 (1).png…]()
+)
 )
 
 🎯 .NET Backend Developer | ASP.NET Core | SQL Server  
