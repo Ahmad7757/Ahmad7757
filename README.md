@@ -1,14 +1,44 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
-<!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+## Hi there 👋 I'm Saleh Jalabi
 
+🎯 .NET Backend Developer | ASP.NET Core | SQL Server  
+🚀 Passionate about building scalable and clean backend systems
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/jayrajroshan/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@jayrajroshan1@gmail.com)
+---
 
-## ⚡ Skills:
-- Node.js
-- TypeScript
-- NestJS
-- Ethereum
+## 🧑‍💻 About Me
+- 💻 Backend-focused .NET developer
+- 🌱 Currently improving my skills in ASP.NET Core Web API and Entity Framework
+- 🧠 Interested in clean architecture and best practices
+- 🎯 Goal-oriented and continuously learning
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** C#, SQL
+- **Backend:** ASP.NET Core
+- **Database:** SQL Server
+- **ORM:** Entity Framework Core
+- **Tools:** Visual Studio, VS Code
+
+---
+
+## 📘 Currently Learning
+- Authorization & Authentication in ASP.NET
+- Git & GitHub fundamentals
+- RESTful APIs with ASP.NET Core
+
+---
+
+## 🎯 2026 SMART Goals
+- Build **2 complete ASP.NET Core Web API projects** and publish them on GitHub within 4 months.
+- Learn **Git fundamentals** and use it to manage my projects within 2 Months.
+- Learn and apply **Clean Architecture** in at least one real project.
+
+---
+
+## 📫 How to Reach Me
+- GitHub: https://github.com/SalehJalabi
+- Email: mhmdmh2004@gmail.com
+---
+
+⭐ Feel free to explore my repositories and follow my journey!
