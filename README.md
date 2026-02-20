@@ -1,4 +1,6 @@
-![Header image](![Uploading Gemini_Generated_Image_dra9x6dra9x6dra9 (1).png…]()
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/header.png" width="100%" />
+</p>
 )
 )
 
