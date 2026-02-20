@@ -45,12 +45,6 @@
 
 ---
 
-## 🎯 SMART Goals for 2026
-- Build **2 complete ASP.NET Core Web API projects** and publish them on GitHub within **4 months**  
-- Learn **Git fundamentals** and apply them consistently to manage projects within **2 months**  
-- Learn and apply **Clean Architecture** in at least one real project  
-
----
 
 ## 📫 Contact
 - **GitHub:** https://github.com/Ahmad7757  
